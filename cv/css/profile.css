@@ -1,0 +1,12 @@
+body { padding: 0 15px; }
+
+p { margin-bottom: 0.5px; }
+
+div { font-weight:bold; font-size:16px;}
+.cats { font-size:1.4em; }
+p { font-weight:lighter; }
+img {
+    float: left;
+    margin: 15px 15px 15px 0;
+    border: 1px solid black;
+}
